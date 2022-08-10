@@ -4,7 +4,7 @@ I'm Tim, a 40 year old Developer, Microsoft MVP, Foster Dad, Gamer, Mentor, Coac
 
 [![my website](https://img.shields.io/badge/Tim%20Cadenbach-Blog-lightgrey)](https://www.m365princess.com)
 [![Tim on twitter](https://img.shields.io/badge/%40TimCadenbach-Twitter-blue)](https://www.twitter.com/LuiseFreese)
-[![my MVP profile](https://img.shields.io/badge/%E2%AD%90-MVP-blue)](https://mvp.microsoft.com/en-us/PublicProfile/5003313?fullName=Luise%20Freese)
+[![my MVP profile](https://img.shields.io/badge/%E2%AD%90-MVP-blue)](https://mvp.microsoft.com/en-us/PublicProfile/5004150?fullName=Tim%20Cadenbach)
 [![MVC](https://img.shields.io/badge/Community-MadeWithCards-blue)](https://www.madewithcards.io)
 [![MVC](https://img.shields.io/github/sponsors/deejaytc)](https://github.com/sponsors/DeeJayTC)
 
