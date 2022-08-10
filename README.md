@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tim, a 40 year old Developer, Foster Dad, Gamer, Mentor, Coach, Entrepeneur, Team Lead... and more from Germany. Here to help make the open source community even better and give back some of my experience
+I'm Tim, a 40 year old Developer, Microsoft MVP, Foster Dad, Gamer, Mentor, Coach, Entrepeneur, Team Lead... and more from Germany. Here to help make the open source community even better and give back some of my experience
 
 
 [![my website](https://img.shields.io/badge/Tim%20Cadenbach-Blog-lightgrey)](https://www.m365princess.com)
