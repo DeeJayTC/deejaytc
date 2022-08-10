@@ -2,7 +2,7 @@
 I'm Tim, a 40 year old Developer, Microsoft MVP, Foster Dad, Gamer, Mentor, Coach, Entrepeneur, Team Lead... and more from Germany. Here to help make the open source community even better and give back some of my experience
 
 
-[![my website](https://img.shields.io/badge/Tim%20Cadenbach-Blog-lightgrey)](https://www.www.tcdev.de)
+[![my website](https://img.shields.io/badge/Tim%20Cadenbach-Blog-lightgrey)](https://www.tcdev.de)
 [![Tim on twitter](https://img.shields.io/badge/%40TimCadenbach-Twitter-blue)](https://www.twitter.com/timcadenbach)
 [![my MVP profile](https://img.shields.io/badge/%E2%AD%90-MVP-blue)](https://mvp.microsoft.com/en-us/PublicProfile/5004150?fullName=Tim%20Cadenbach)
 [![MVC](https://img.shields.io/badge/Community-MadeWithCards-blue)](https://www.madewithcards.io)
