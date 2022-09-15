@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tim, a 40 year old Developer, Microsoft MVP, Foster Dad, Gamer, Mentor, Coach, Entrepeneur, Team Lead... and more from Germany. Here to help make the open source community even better and give back some of my experience
+I'm Tim, a 40 year old Developer, Microsoft MVP, Foster Dad, Gamer, Mentor, Coach, Entrepeneur, Developer Evangelist... and more from Germany. Here to help make the open source community even better and give back some of my experience. Currently working for Deepl.com, making the developer experience more fun!
 
 
 [![my website](https://img.shields.io/badge/Tim%20Cadenbach-Blog-lightgrey)](https://www.tcdev.de)
