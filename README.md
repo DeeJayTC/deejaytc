@@ -8,10 +8,7 @@ I'm Tim, a 40 year old Developer, Microsoft MVP, Foster Dad, Gamer, Mentor, Coac
 [![MVC](https://img.shields.io/badge/Community-MadeWithCards-blue)](https://www.madewithcards.io)
 [![MVC](https://img.shields.io/github/sponsors/deejaytc)](https://github.com/sponsors/DeeJayTC)
 
-### Find some of my projects in the pinned section below:
-<a href='https://github.com/DeeJayTC/net-dynamic-api'> ![image](https://user-images.githubusercontent.com/4077759/161606916-b4987236-cd4f-4a82-8bf9-9076fa8fe8b4.png)</a><br/>
-<a href='https://github.com/DeeJayTC/dotnet-utils'> ![image](https://user-images.githubusercontent.com/4077759/161607001-cc8d3b33-9100-4d9a-bf21-1d782bc515ca.png)</a><br/>
-<a href='https://github.com/MadeWithCards/AdaptiveCardsStudio'> ![image](https://user-images.githubusercontent.com/4077759/161607083-337a4e4d-e178-456b-b124-f18384861af4.png)</a>
+[![MVC](https://github-profile-trophy.vercel.app/?username=deejaytc)](https://github-profile-trophy.vercel.app/?username=deejaytc)
 
 
 ### My Stack
