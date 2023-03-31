@@ -8,6 +8,8 @@ I'm Tim, a 40 year old Developer, Microsoft MVP, Foster Dad, Gamer, Mentor, Coac
 [![MVC](https://img.shields.io/badge/Community-MadeWithCards-blue)](https://www.madewithcards.io)
 [![MVC](https://img.shields.io/github/sponsors/deejaytc)](https://github.com/sponsors/DeeJayTC)
 
+<a href="https://www.wearedotnet.io/deejaytc" target="_blank"><img src="https://feeds.wearedotnet.io/social/images/deejaytc"  width="500" height="250"></a>
+
 [![MVC](https://github-profile-trophy.vercel.app/?username=deejaytc)](https://github-profile-trophy.vercel.app/?username=deejaytc)
 
 [![DeeJayTC's GitHub stats](https://github-readme-stats.vercel.app/api?username=deejaytc)](https://github.com/anuraghazra/github-readme-stats)
